@@ -4,7 +4,7 @@ title          : "Kontakt"
 date           : 2019-12-23T20:17:01+06:00
 heading        : "Kontakt Heading"
 quote          : "Kontakt Zitat"
-contact_email  : "Kontajt text"
+contact_email  : "Kontakt text"
 email          : kontakt@didactiva.de
 calendly_link  : "Calendly Link"
 calendly_text  : "Calendly text"

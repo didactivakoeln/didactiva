@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-08T13:06:33+01:00</lastmod>
+    <lastmod>2024-11-08T13:42:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-11-29T15:05:21+01:00</lastmod>
@@ -26,16 +26,16 @@
     <lastmod>2023-08-22T15:08:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/keynote-gesund-unterrichten/</loc>
-    <lastmod>2024-11-08T12:42:08+01:00</lastmod>
+    <lastmod>2024-11-08T13:42:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/keynote-instrument/</loc>
-    <lastmod>2024-11-08T12:42:08+01:00</lastmod>
+    <lastmod>2024-11-08T13:41:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/keynote-stressmanagement/</loc>
-    <lastmod>2024-11-08T12:42:08+01:00</lastmod>
+    <lastmod>2024-11-08T13:41:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/stressmanagement/</loc>
-    <lastmod>2024-11-08T12:42:08+01:00</lastmod>
+    <lastmod>2024-11-08T13:41:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
@@ -43,6 +43,6 @@
     <lastmod>2024-11-08T13:06:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/workshop-gesund-unterrichten/</loc>
-    <lastmod>2024-11-08T12:42:08+01:00</lastmod>
+    <lastmod>2024-11-08T13:41:43+01:00</lastmod>
   </url>
 </urlset>
