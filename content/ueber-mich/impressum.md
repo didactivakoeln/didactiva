@@ -5,22 +5,14 @@ arrow: false
 ---
 ### Angaben gemäß § 5 TMG
 
-Anna Breyer  
-Ensemble IT Coaching  
-Bahnhofstr. 9  
-55278 Hahnheim  
-Deutschland
+
 
 
 #### Kontakt
-Telefon: +49 (0) 174 5124442
 
 #### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Anna Breyer  
-Bahnhofstr. 9  
-55278 Hahnheim  
-Deutschland
+
 
 
 #### Social Media und andere Onlinepräsenzen:
@@ -46,21 +38,13 @@ Das Design dieser Webseite basiert auf {{< newtabref  href="https://github.com/S
 von {{< newtabref  href="https://staticmania.com/" title="Static Mania" >}}.
 
 ##### Schrift
-Die Schrift, die für Ensemble Schriftzug benutzt wird, wurde von Pavel Larin designt.
+
 
 ##### Logo
-Das auf dieser Webseite verwendete Logo wurde von Lélia Tahabik (Réalisatrice, Motion Designer) erstellt.
 
 ##### Bilder und Grafiken:
 Die Bilder stammen aus verschiedenen Quellen.
-* Startseite : {{< newtabref  href="https://www.canva.com/p/floraldeco/" title="Floral Deco" >}}, {{< newtabref  href="https://www.canva.com" title="Canva" >}} Pro Licence
-* Banner: Veranika Dzik, {{< newtabref  href="https://www.canva.com" title="Canva" >}} Pro Licence
-* Über mich: {{< newtabref  href="https://jasmin-metten.de" title="Jasmin Metten Fotographie" >}}
-* Angebot/Veranstaltungen:
-    - Zoom call with coffee {{< newtabref  href="https://unsplash.com/@cwmonty" title="Chris Montgomery" >}},
-    - Woman placing sticky notes on a wall {{< newtabref  href="https://unsplash.com/@jasongoodman_youxventures" title="Jason Goodman" >}}
-* Dotted Vertical Line: {{< newtabref  href="https://www.canva.com/p/artpacker/" title="Artpacker" >}}, {{< newtabref  href="https://www.canva.com" title="Canva" >}} Pro Licence
-* Sparkle:  Canva Pro Licence
+
 
 ### Hinweise auf Rechtsverstöße:
 Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.
