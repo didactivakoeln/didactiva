@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passwortmanager on DIDACTIVA</title>
+    <link>http://localhost:1313/tags/passwortmanager/</link>
+    <description>Recent content in Passwortmanager on DIDACTIVA</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 08 Jan 2024 11:51:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/passwortmanager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internetsicherheit Basics</title>
+      <link>http://localhost:1313/blog/internet-sicherheit-basics/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/internet-sicherheit-basics/</guid>
+      <description>&lt;p&gt;Heute möchte ich Dir mehr zum Thema Internetsicherheit erzählen.&lt;/p&gt;&#xA;&lt;p&gt;Wir kennen fast alle jemanden dessen Account gehackt worden ist. Und dann denken wir &amp;ldquo;ich müsste mal was tun, damit&#xA;mir das nicht passiert&amp;rdquo;. Doch oft wissen wir nicht, wo wir anfangen sollen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

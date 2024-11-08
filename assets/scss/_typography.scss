@@ -1,0 +1,63 @@
+body{
+  font-family: $primary-font;
+  font-size: 16px;
+  color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: $secondary-font;
+  font-weight: 600;
+  color: $text-color-dark;
+}
+
+p{
+  font-size: 20px;
+  color: $text-color;
+}
+
+h1{
+  font-size: 60px;
+}
+
+h2{
+  font-size: 50px;
+}
+
+h3{
+  font-size: 30px;
+}
+
+h4{
+  font-size: 25px;
+}
+
+h5{
+  font-size: 18px;
+}
+
+h6{
+  font-size: 15px;
+  font-weight: 300;
+}
+
+a {
+  color: $secondary-color;
+  transition: 0.3s ease;
+  &:hover{
+    text-decoration: underline;
+    color: $secondary-color;
+  }
+}
+
+blockquote{
+  p{
+    color: $text-color-dark;
+    font-size: 18px;
+    font-style: italic;
+  }
+}
+
+
+.ensemble{
+  font-family: MiamoScript;
+}

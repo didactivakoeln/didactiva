@@ -1,0 +1,14 @@
+enable : false
+heading : "Traue keiner Statistik die Du nicht selbst gefälscht hast"
+counter_item: 
+  - title: "Excel Tabellen"
+    number: "500"
+
+  - title: "Code Linien"
+    number: "9999"
+
+  - title: "Tee Tassen"
+    number: "432"
+
+  - title: "Telefongespräche"
+    number: "775"

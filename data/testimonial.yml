@@ -1,0 +1,19 @@
+enable  : true
+title   : "Kundinnen* Stimmen"
+subtitle: "Was meinen Kundinnen* zu sagen haben"
+testimonial_item :
+  - thumb : ""
+    name  : "Name"
+    company_position: "Beruf"
+    quote : > 
+        "Text"
+  - thumb : ""
+    name  : "Name"
+    company_position: "Beruf"
+    quote : > 
+      "Text"
+  - thumb : ""
+    name  : "Name"
+    company_position: "Beruf"
+    quote : >
+      "Text"

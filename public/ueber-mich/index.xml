@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Über mich on DIDACTIVA</title>
+    <link>http://localhost:1313/ueber-mich/</link>
+    <description>Recent content in Über mich on DIDACTIVA</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/ueber-mich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>http://localhost:1313/ueber-mich/dsgvo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ueber-mich/dsgvo/</guid>
+      <description>&lt;h3 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h3&gt;&#xA;&lt;h4 id=&#34;einleitung-und-überblick&#34;&gt;Einleitung und Überblick&lt;/h4&gt;&#xA;&lt;p&gt;Wir haben diese Datenschutzerklärung (Fassung 10.08.2023-312558597) verfasst, um Ihnen gemäß der Vorgaben der&#xA;Datenschutz-Grundverordnung (EU) 2016/679 und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen&#xA;Daten (kurz Daten) wir als Verantwortliche – und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) –&#xA;verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.&lt;br&gt;&#xA;&lt;strong&gt;Kurz gesagt&lt;/strong&gt;: Wir informieren Sie umfassend über Daten, die wir über Sie verarbeiten.&#xA;Datenschutzerklärungen klingen für gewöhnlich sehr technisch und verwenden juristische Fachbegriffe. Diese Datenschutzerklärung&#xA;soll Ihnen hingegen die wichtigsten Dinge so einfach und transparent wie möglich beschreiben. Soweit es der Transparenz&#xA;förderlich ist, werden technische &lt;strong&gt;Begriffe leserfreundlich erklärt&lt;/strong&gt;, Links zu weiterführenden Informationen geboten und &lt;strong&gt;Grafiken&lt;/strong&gt;&#xA;zum Einsatz gebracht. Wir informieren damit in klarer und einfacher Sprache, dass wir im Rahmen unserer&#xA;Geschäftstätigkeiten nur dann personenbezogene Daten verarbeiten, wenn eine entsprechende gesetzliche Grundlage gegeben&#xA;ist. Das ist sicher nicht möglich, wenn man möglichst knappe, unklare und juristisch-technische Erklärungen abgibt,&#xA;so wie sie im Internet oft Standard sind, wenn es um Datenschutz geht. Ich hoffe, Sie finden die folgenden Erläuterungen&#xA;interessant und informativ und vielleicht ist die eine oder andere Information dabei, die Sie noch nicht kannten.&lt;br&gt;&#xA;Wenn trotzdem Fragen bleiben, möchten wir Sie bitten, sich an die unten bzw. im Impressum genannte verantwortliche&#xA;Stelle zu wenden, den vorhandenen Links zu folgen und sich weitere Informationen auf Drittseiten anzusehen. Unsere&#xA;Kontaktdaten finden Sie selbstverständlich auch im Impressum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/ueber-mich/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ueber-mich/impressum/</guid>
+      <description>&lt;h3 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h3&gt;&#xA;&lt;p&gt;Anna Breyer&lt;br&gt;&#xA;Ensemble IT Coaching&lt;br&gt;&#xA;Bahnhofstr. 9&lt;br&gt;&#xA;55278 Hahnheim&lt;br&gt;&#xA;Deutschland&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

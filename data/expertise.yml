@@ -1,0 +1,12 @@
+enable: true
+heading: "Ausbildung und Erfahrung"
+subtext: "Diese Aufzählung ist nicht erschöpfend."
+counter_item:
+  - year: "Jahr"
+    diploma: "Diplom"
+  - year: "Jahr"
+    diploma: "Diplom"
+  - year: "Jahr"
+    diploma: "Diplom"
+  - year: "Jahr"
+    diploma: "Diplom"

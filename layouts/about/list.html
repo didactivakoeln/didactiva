@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+<section class="site-about-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="site-about-wrapper">
+                    <div class="site-about-company">
+                        <h1>
+                            {{ .Params.heading }}
+                        </h1>
+                    </div>
+                    <div class="site-about-description">
+                        <p>
+                            {{ .Params.company_description }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="site-about-odd-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="site-about-odd-wrapper">
+                    <div class="site-about-odd-description">
+                        <p>
+                            {{ with .Params.person_description }}{{ . | safeHTML }}{{ end }}
+                        </p>
+                    </div>
+                    <div class="site-about-odd-company">
+                        <img src="{{ .Params.person_image | absURL }}" alt="owner">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ partial "expertise.html" . }}
+
+
+{{ if .Content}}
+<section class="site-single-details">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <article class="site-about-details">
+                    {{ .Content | safeHTML }}
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

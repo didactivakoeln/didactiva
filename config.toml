@@ -1,0 +1,145 @@
+baseURL = "https://didactiva.de/"
+languageCode = "de-DE"
+title = "DIDACTIVA"
+theme = "roxo-hugo"
+summarylength = 10
+relativeURLs = true
+enableRobotsTXT = true
+enableEmoji = true
+removePathAccents = true
+ignoreLogs = ['warning-goldmark-raw-html']
+
+
+[frontmatter]
+lastmod = [':git', ':fileModTime']
+
+[sitemap]
+filename = 'sitemap.xml'
+priority = -1
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name    = "Startseite"
+url     = ""
+weight  = 1
+[[menu.nav]]
+name    = "Über mich"
+url     = "ueber-mich"
+weight  = 2
+[[menu.nav]]
+name    = "Angebot"
+url     = "portfolio"
+weight  = 3
+[[menu.nav]]
+name    = "Blog"
+url     = "blog"
+weight  = 4
+[[menu.nav]]
+name    = "Kontakt"
+url     = "kontakt"
+weight  = 5
+
+# Site Params
+[params]
+#logo = "images/logo-header.png"
+dateFormat = "26 FEB 1994"
+# Meta data
+description = "DIDACTIVA"
+author = "Amrei Assent"
+# We're using formspree.io for form handling, paste your formspree url below
+#formspree  = "https://formspree.io/f/mnqknyrz"
+fabform = "https://fabform.io/f/NjpP9iZ"
+#openGraph
+#Image = "/images/og/ensemble-logo.png"
+
+# Contact Form
+[params.contactForm]
+placeholder_first_name        = "Vorname"
+placeholder_last_name         = "Nachname"
+placeholder_email             = "Email"
+placeholder_project_type      = "Typ"
+placeholder_about_the_project = "Darum es geht"
+send_message                  = "Nachricht senden"
+
+[[params.contactForm.projectType]]
+value = "single"
+title  = "Hilfe zur Selbsthilfe"
+[[params.contactForm.projectType]]
+value = "group"
+title  = "Veranstaltung"
+
+# Navbar Action Button
+[params.navAction]
+status  = true
+name    = "Mich kontaktieren"
+url     = "kontakt"
+
+
+# Banner Section
+[params.banner]
+enable                = true
+#background_image      = "images/backgrounds/hero-background_blurry.jpg"
+heading               = "Hier kommt das Heading"
+tagline               = "Hier kommt die Tagline"
+primary_button        = "Mein Angebot"
+primary_button_url    = "portfolio"
+secondary_button      = "Mich kontaktieren"
+secondary_button_url  = "kontakt"
+
+[params.portfolio]
+enable    = true
+title     = "MEIN ANGEBOT"
+subtitle  = "Hier kommt der Untertitel."
+
+[params.call_to_action]
+enable               = true
+#background_image     = "images/backgrounds/rainbow-background.png"
+title                = "Lass uns zusammen arbeiten"
+primary_button       = "Anfragen"
+primary_button_url   = "kontakt"
+secondary_button     = "Noch nicht sicher?"
+secondary_button_url = "portfolio"
+
+[params.footer]
+# Footer Contact Info
+[params.footer.contactInfo]
+title   = "Kontakt"
+address = "Köln"
+phone   = "+49 123 456 7890"
+email   = "mail@didactiva.de"
+# Footer Sitemap
+[params.footer.sitemap]
+title   = "Sitemap"
+[[params.footer.sitemap.link]]
+name = "Über mich"
+url  = "ueber-mich"
+[[params.footer.sitemap.link]]
+name = "Angebot"
+url  = "portfolio"
+[[params.footer.sitemap.link]]
+name = "Kontakt"
+url  = "kontakt"
+# Footer Social Media
+[params.footer.social]
+title   = "Social Media"
+[[params.footer.social.link]]
+[[params.footer.social.link]]
+name = "WhatsApp"
+url  = ""
+[[params.footer.social.link]]
+name = "Instagram"
+url  = ""
+[params.footer.legal]
+title   = "Legales"
+[[params.footer.legal.link]]
+name = "Datenschutz"
+url  = "ueber-mich/dsgvo"
+[[params.footer.legal.link]]
+name = "Impressum"
+url  = "ueber-mich/impressum"
+# Footer Service
+[params.footer.service]
+title       = "Footer Titel"
+description = "Footer Beschreibung"

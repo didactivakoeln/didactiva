@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ich helfe Dir mit &lt;span&gt;der Technik&lt;/span&gt;, damit Du Dich ganz auf Dein &lt;span&gt;Kerngeschäft&lt;/span&gt; konzentrieren kannst on DIDACTIVA</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Ich helfe Dir mit &lt;span&gt;der Technik&lt;/span&gt;, damit Du Dich ganz auf Dein &lt;span&gt;Kerngeschäft&lt;/span&gt; konzentrieren kannst on DIDACTIVA</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 08 Nov 2024 12:42:08 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keynote - Gesund unterrichten in großen und heterogene Lerngruppen</title>
+      <link>http://localhost:1313/portfolio/keynote-gesund-unterrichten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/keynote-gesund-unterrichten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keynote - Welches Instrument passt zu meinem Kind</title>
+      <link>http://localhost:1313/portfolio/keynote-instrument/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/keynote-instrument/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keynote Stressmanagement</title>
+      <link>http://localhost:1313/portfolio/keynote-stressmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/keynote-stressmanagement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stressmanagement für Pädagagog*innen</title>
+      <link>http://localhost:1313/portfolio/stressmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/stressmanagement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop - Gesund unterrichten in großen und heterogene Lerngruppen</title>
+      <link>http://localhost:1313/portfolio/workshop-gesund-unterrichten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/workshop-gesund-unterrichten/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
